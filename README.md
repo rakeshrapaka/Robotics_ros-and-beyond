@@ -1,6 +1,6 @@
-# 🤖 Rakesh's Personal Robotics Learning Track
+# 🤖 Robotics Learning Track
 
-Welcome to my self-guided Robotics journey! This repository contains beginner-friendly, bite-sized lessons I've followed with the help of a personal tutor (ChatGPT), designed to build deep understanding through analogies, practical thinking, and real-world exercises.
+Welcome to my self-guided Robotics journey! This repository contains beginner-friendly, bite-sized lessons I've followed with the help of a personal tutor , designed to build deep understanding through analogies, practical thinking, and real-world exercises.
 
 ---
 
