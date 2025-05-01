@@ -2,7 +2,7 @@
 
 Use this template to reflect on the objects you interact with and determine if they qualify as robots. This will help you sharpen your ability to recognize robotics principles in real life.
 
---- #Day 1
+## 🗓️ Day 1
 ### Observation 1:
 - **Object:**
 - **Does it sense?** (Yes/No)
