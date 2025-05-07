@@ -38,7 +38,6 @@ Each lesson builds on the previous one and follows a consistent format:
 ---
 
 ## 📁 Repository Structure
-/
 ├── lessons/
 │   ├── lesson_1_what_is_a_robot.md
 │   ├── lesson_2_robot_anatomy.md
