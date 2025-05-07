@@ -30,7 +30,8 @@ Each lesson builds on the previous one and follows a consistent format:
 |----------|-------|---------------|
 | Lesson 1 | What Is a Robot? | Sense-Process-Act, Real-life analogies, Types of robots |
 | Lesson 2 | Robot Anatomy | Sensors, Actuators & Controllers  |
-| Lesson 3 | Coming soon | ---  |
+| Lesson 3 | How Robots Move | Degrees of Freedom (DoF) & Joints |
+| Lesson 4 | WIP | --- |
 
 > To start from Lesson 1, check the `/lessons` folder.
 
